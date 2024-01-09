@@ -22,7 +22,7 @@ const Footer = () => {
         </div>
         <div className="column">
           <div className="logo">
-            <img src="../assets/logonaranja.png" href="/" height="60px" alt="Segundo Logo" />
+            <img className="logo" src="../assets/logonaranja.png" href="/" height="60px" alt="Segundo Logo" />
           </div>
           <div className="redes-sociales">
             <a href="/"><img src="../assets/union.png" alt="Facebook" /></a>

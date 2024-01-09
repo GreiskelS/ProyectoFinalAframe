@@ -1,11 +1,8 @@
-import React, { useState } from 'react'
+import React from 'react'
 import '../360-pages/index360.css';
 
 const Index360 = () => {
-  const [clicked, setClicked] = useState(false)
-  const handleClick = () => {
-    setClicked(!clicked)
-  }
+
   return (
     <div>
 

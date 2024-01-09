@@ -72,3 +72,7 @@ body {
 #botones{
   margin-top: 32rem;
 }
+
+@media screen and (min-width: 769px) {
+ 
+  }

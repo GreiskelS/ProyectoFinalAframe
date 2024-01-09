@@ -42,3 +42,12 @@ div.fade.modal.show {
     margin: auto;
     margin-left: 10px;
 }
+
+@media screen and (max-width: 750px) {
+    .modal-content {
+        width: 370px;
+      }
+      .modal-footer {
+        height: 10px;
+    }
+    }
